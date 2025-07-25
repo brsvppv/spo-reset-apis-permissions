@@ -22,12 +22,14 @@
 </AppPermissionRequests>
 ```
 
-## More Useful SharePoint URLs
+## Example Links: Useful SharePoint URLs
 
-- [Grant App Permissions (Admin)](https://example-admin.sharepoint.com/_layouts/15/appinv.aspx)
-- [App Principals - GlobalHub](https://example.sharepoint.com/sites/ExampleHub/_layouts/15/AppPrincipals.aspx)
-- [App Principals - MyLibrary](https://example.sharepoint.com/sites/MyLibrary/_layouts/15/AppPrincipals.aspx)
-- [SharePoint REST API](https://example.sharepoint.com/sites/MyLibrary/_api/)
+```
+Grant App Permissions (Admin): https://example-admin.sharepoint.com/_layouts/15/appinv.aspx
+App Principals - GlobalHub: https://example.sharepoint.com/sites/ExampleHub/_layouts/15/AppPrincipals.aspx
+App Principals - MyLibrary: https://example.sharepoint.com/sites/MyLibrary/_layouts/15/AppPrincipals.aspx
+SharePoint REST API: https://example.sharepoint.com/sites/MyLibrary/_api/
+```
 
 ## 🔗 References
 
