@@ -5,7 +5,7 @@
 **Register New App (Admin):**
 
 ```
-https://example.sharepoint.com/sites/sam/_layouts/15/appregnew.aspx
+https://example.sharepoint.com/sites/SiteNme/_layouts/15/appregnew.aspx
 ```
 
 ## Grant App Permissions (AppInv.aspx)
@@ -13,7 +13,7 @@ https://example.sharepoint.com/sites/sam/_layouts/15/appregnew.aspx
 **Grant App Permissions:**
 
 ```
-https://example.sharepoint.com/sites/sam/_layouts/15/appinv.aspx
+https://example.sharepoint.com/sites/SiteNme/_layouts/15/appinv.aspx
 ```
 
 ## Example Permission XML
